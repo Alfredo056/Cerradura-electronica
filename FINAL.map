@@ -1,0 +1,68 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sat Jul 30 19:04:08 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x0000fa
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000080      
+            126 out of 1094 program addresses used, program memory utilization is 11%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+             ANTIRREBOTES   0x00006b    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                       B1   0x00006b    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                       B2   0x00006d    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                       B3   0x00006f    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND1   0x00001f    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND2   0x000024    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND3   0x000029    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND4   0x00002e    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND5   0x000033    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND6   0x000038    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                 CORRECTO   0x000041    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+               INCORRECTO   0x00003d    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                   INICIO   0x000005    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+             INTERRUPCION   0x00004a    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                PRINCIPAL   0x000013    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+           REVISARCOLUMNA   0x00005b    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+             REVISARTECLA   0x000074    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                  TECLADO   0x000058    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000005    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                PRINCIPAL   0x000013    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND1   0x00001f    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND2   0x000024    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND3   0x000029    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND4   0x00002e    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND5   0x000033    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                    COND6   0x000038    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+               INCORRECTO   0x00003d    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                 CORRECTO   0x000041    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+             INTERRUPCION   0x00004a    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                  TECLADO   0x000058    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+           REVISARCOLUMNA   0x00005b    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                       B1   0x00006b    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+             ANTIRREBOTES   0x00006b    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                       B2   0x00006d    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+                       B3   0x00006f    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+             REVISARTECLA   0x000074    program     static C:\Users\Miguel\Desktop\TA-MICRO\FINAL.asm
+
+

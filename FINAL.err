@@ -1,0 +1,35 @@
+Warning[205] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 1 : Found directive in column 1. (LIST)
+Warning[215] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 1 : Processor superseded by command line.  Verify processor symbol.
+Warning[205] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 2 : Found directive in column 1. (INCLUDE)
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPASM SUITE\P16F628A.INC 33 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 4 : Found label after column 1. (NUM)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 5 : Found label after column 1. (TEC)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 6 : Found label after column 1. (VAR1)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 7 : Found label after column 1. (VAR2)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 8 : Found label after column 1. (VAR3)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 9 : Found label after column 1. (VAR4)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 10 : Found label after column 1. (VAR5)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 11 : Found label after column 1. (VAR6)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 12 : Found label after column 1. (SUMA)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 14 : Found label after column 1. (NUM.1)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 15 : Found label after column 1. (NUM.2)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 16 : Found label after column 1. (NUM.3)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 17 : Found label after column 1. (NUM.4)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 18 : Found label after column 1. (NUM.5)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 19 : Found label after column 1. (NUM.6)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 20 : Found label after column 1. (NUM.7)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 21 : Found label after column 1. (NUM.8)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 22 : Found label after column 1. (NUM.9)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 23 : Found label after column 1. (LET.A)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 24 : Found label after column 1. (NUM.0)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 25 : Found label after column 1. (LET.b)
+Message[302] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 37 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 38 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 40 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 47 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 128 : Using default destination of 1 (file).
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 169 : Found label after column 1. (B1)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 171 : Found label after column 1. (B2)
+Warning[207] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 173 : Found label after column 1. (B3)
+Warning[205] C:\USERS\MIGUEL\DESKTOP\TA-MICRO\FINAL.ASM 195 : Found directive in column 1. (END)
